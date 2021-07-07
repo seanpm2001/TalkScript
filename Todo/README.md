@@ -13,16 +13,22 @@
 
 ## July 6th 2021
 
-- [ ] Start a discussion
+- [x] Start a discussion
 
-- [ ] Add sponsor info
+- [x] Add sponsor info
 
-- [ ] Start working on the IDE
+- [x] Start working on the IDE
 
 ## Other
 
-- [ ] Update the `README.md` file for this project
+- [x] Update the `README.md` file for this project
 
 - [ ] Create a webpage for this project
+
+- [ ] Add support for Syntax highlighting
+
+- [ ] Add increased documentation
+
+- [ ] Update and move the `ProjectWiki`
 
 ***
